@@ -1,5 +1,5 @@
 
-Components Bootrap gives
+**Components Bootrap**
 - Navbar and Dropdowns
 - Jumbotron
 - Alerts & Progress Bar
@@ -29,6 +29,7 @@ JavaScript Widgets & Helpers
 Install Metods
 - NPM
 - Manually Download
+
 
 
 
