@@ -44,12 +44,16 @@ a "dist" is a "distributed" so it's the compiled JS and CSS
  - the `<small>` class within `<h1>` tags can be used for secondary text.
  - the `"lead"` class for the `<p>` creates a slightly bigger paragraph of text
  - the `<mark>` tag highlights some text
- - `<hr>` ----------
+ - `<hr>` 
+ 
+ ----------
+ ^ this was a horizontal rule... headers are better
+ 
  
  **Helper Classes**
 
 # Blockquote
-----------
+
  
 - "blockquote" `encapsulate <p> tags within this`
 - <footer>
